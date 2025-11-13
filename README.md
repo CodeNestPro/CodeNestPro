@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there 👋, I'm Pooja Naik
 
-<!--
-**CodeNestPro/CodeNestPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack Developer | .NET | Angular | AI/ML Enthusiast**
 
-Here are some ideas to get you started:
+🌍 United States  
+💻 Passionate about robust web applications and intelligent systems  
+🚀 Exploring AI/ML in real-world projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Technologies & Tools
+
+- .NET, C#
+- Angular, TypeScript, JavaScript
+- Python (AI/ML)
+- SQL, Entity Framework
+- REST APIs & Microservices
+
+---
+
+## ⚡️ Current Interests
+
+- Building full-stack solutions with Angular + .NET
+- Experimenting with machine learning models
+- Writing clean, scalable code
+
+---
+
+## 📫 How to reach me
+
+- Connect on [GitHub](https://github.com/CodeNestPro)
+- Let’s collaborate on interesting open-source or AI-based projects!
+- Connect with me on [LinkedIn](https://linkedin.com/in/pooja-naik93)
+---
+
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeNestPro&show_icons=true&hide=stars)
+
+---
+**Thanks for visiting my profile!**
